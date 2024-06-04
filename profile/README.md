@@ -2,7 +2,7 @@
 
 🙋‍♀️ We develop what we want to make including mobile apps and website.
 
-🍿 Fun facts - 짱구는 못말려.
+🍿 Interests - 짱구는 못말려, 명탐정 코난 and Harry Potter
 
 👩‍💻 Currently working on the "Fruitage" project.
 
@@ -20,5 +20,5 @@
 |Sohui|Soyeong|
 |:--:|:--:|
 [<img src="https://avatars.githubusercontent.com/u/43427487?v=4" width="72px">](https://github.com/Parksohui)|[<img src="https://avatars.githubusercontent.com/u/43427380?v=4" width="72px">](https://github.com/kimsoyeong)|
-|Backend|Frontend & AI|
+|Backend|Frontend|
 
