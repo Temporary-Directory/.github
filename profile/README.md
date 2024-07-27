@@ -2,7 +2,7 @@
 
 🙋‍♀️ We develop what we want to make including mobile apps and website.
 
-🍿 Interests - 짱구는 못말려, 명탐정 코난 and Harry Potter
+🍿 Interests - Detective Conan, Crayon Shinchan and Harry Potter
 
 👩‍💻 Currently working on the "Fruitage" project.
 
